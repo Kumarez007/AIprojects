@@ -1,0 +1,82 @@
+{
+  "total_video_length_seconds": 53,
+  "scenes": [
+    {
+      "scene_number": 1,
+      "duration_seconds": 5,
+      "visuals": {
+        "description": "An animated question mark (?) appears and transforms into a shining lightbulb above a child's head. The text 'What If Your Child Could Build a Website, Code a Game & Master AI in Just 21 Days?' appears on the screen."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "What if your child could build a website, code a game, and even master AI in just 21 days?"
+      }
+    },
+    {
+      "scene_number": 2,
+      "duration_seconds": 5,
+      "visuals": {
+        "description": "A fast-paced montage of kids aged 10-16 enthusiastically using computers. The text 'AI For Kids - The 21-Day Challenge' appears on the screen."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "Our 21-day practical, hands-on program teaches your child to think, create, and build with AI."
+      }
+    },
+    {
+      "scene_number": 3,
+      "duration_seconds": 8,
+      "visuals": {
+        "description": "Animated icons appear for 'Procedural Thinking' (spinning gears), 'Fluid Intelligence' (a brain with connecting dots), and 'Practical, Not Theory' (hands building something)."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "We don't just teach tools. We teach how to think. No theory, just hands-on practice every single day."
+      }
+    },
+    {
+      "scene_number": 4,
+      "duration_seconds": 10,
+      "visuals": {
+        "description": "Fast-paced animated scenes showing: logos of ChatGPT, Claude, and Gemini; a brain with the words 'RTCFR Framework'; an image being generated from text; a short video clip; and logos of Python and HTML/CSS."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "On day one, they'll meet the AI giants. They will master the art of prompting. They will create stunning images and videos. From Python coding to their own website, it's all covered!"
+      }
+    },
+    {
+      "scene_number": 5,
+      "duration_seconds": 7,
+      "visuals": {
+        "description": "The title 'Live Interactive Sessions' appears. A scene showing an instructor talking to students via video call. An animation of students asking questions."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "These aren't pre-recorded videos. One hour of live sessions every day. Doubts can be cleared instantly."
+      }
+    },
+    {
+      "scene_number": 6,
+      "duration_seconds": 8,
+      "visuals": {
+        "description": "A child first looks at a computer with curiosity. Then, the same child confidently builds a website and presses a 'Go Live!' button. A visual of the website successfully going online."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "In 21 days, your child will transform from a curious observer to a confident creator. They will build their own website!"
+      }
+    },
+    {
+      "scene_number": 7,
+      "duration_seconds": 10,
+      "visuals": {
+        "description": "The title 'Launch Offer' appears. The price ₹1,25,000 is struck through, and the price ₹14,999 is shown brightly. Next, a fast-ticking timer is shown. The button 'Enroll My Child Now' appears prominently on the screen."
+      },
+      "voiceover": {
+        "language": "English",
+        "text": "Future-ready skills that schools don't teach yet. A course worth over one lakh, now at a special price. Limited seats. Enroll your child today!"
+      }
+    }
+  ]
+}
